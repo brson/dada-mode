@@ -16,6 +16,7 @@
     "leased"
     "shared"
     "return"
+    "type"
     )
   '(
     ("bool" . 'font-lock-type-face)
