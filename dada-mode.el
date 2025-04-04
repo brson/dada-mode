@@ -17,10 +17,13 @@
     "shared"
     "return"
     "type"
+    "export"
+    "unsafe"
     )
   '(
     ("bool" . 'font-lock-type-face)
     ("u32" . 'font-lock-type-face)
+    ("u8" . 'font-lock-type-face)
     ("+" . 'font-lock-operator-face)
     ("*" . 'font-lock-operator-face)
     (":" . 'font-lock-punctuation-face)
